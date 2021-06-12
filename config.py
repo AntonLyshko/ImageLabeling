@@ -1,0 +1,5 @@
+api_id = 'ajeptnkjp3ffu44mur8c'
+api_hash = '318545029c6279b56204de3d17032e30'
+API_KEY = "AQVN2e3pPI3v8QlvbQzTaA5aQuEPmYjZl-KAcCT4"
+IAM_TOKEN = "t1.9euelZqWnJObmpyRzJqMj8uYx4-Qme3rnpWaj5KKxoyTlZCVkczHl8jGkMnl8_dkZ2x5-e8Nf3FZ_t3z9yQWann57w1_cVn-.ytFixkpHShZGgMaH2_pc-1vzyu2BzhqGtYcqmq2PHjmg7E1MSMMGQokqMUuZKWTmNxbSUMvGLjO6vAAJzGuIBQ"
+FOLDER_ID = "b1gh8rj6cl05633g58en"
